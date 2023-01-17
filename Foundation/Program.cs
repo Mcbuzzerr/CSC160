@@ -10,7 +10,8 @@
             //Converting.Execute();
             //ValueReference.Execute();
             //Parameters.Execute();
-            Arrays.Execute();
+            //Arrays.Execute();
+            Debug.Execute();
         }
     }
 }
